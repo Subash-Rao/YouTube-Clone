@@ -18,6 +18,27 @@ header{
 .menu{
     height: 20px;
 }
+.mm{
+    display: none;
+    padding: 5px;
+    color: white;
+    background-color: grey;
+}
+.ico1:hover .float1{
+    display: block;
+    /* display: inline-block; */
+    
+}
+.ico2:hover .float2{
+    display: block;
+    /* display: inline-block; */
+    
+}
+.ico3:hover .float3{
+    display: block;
+    /* display: inline-block; */
+    
+}
 
 
 .logo{
